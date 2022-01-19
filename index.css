@@ -1,0 +1,51 @@
+.container{
+    width: 250px;
+    height:350px;
+    margin-top:80px;
+    background-color:lightgray;
+    }
+    h1{
+        margin-left:480px;
+        
+    }
+    p{
+        padding-left:15px;
+        padding-top:10px;
+    }
+    .button{
+        height:50px;
+        width:50px;
+        background-color: black;
+        color:white;
+    }
+
+    .button:hover {
+        background-color: #323330;
+        color: white;
+        transition:0.5s ease-in-out;
+    }
+    
+#add,#subtract,#div,#mul{
+    background-color: red;
+}
+
+#mul:hover{
+    background-color:#323330;
+    color: white;
+    transition:0.5s ease-in-out;
+}
+#add:hover{
+    background-color:#323330;
+    color: white;
+    transition:0.5s ease-in-out;
+}
+#div:hover{
+    background-color:#323330;
+    color: white;
+    transition:0.5s ease-in-out;
+}
+#sub:hover{
+    background-color:#323330;
+    color: white;
+    transition:0.5s ease-in-out;
+}
